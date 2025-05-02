@@ -9,7 +9,7 @@ The notebooks in this repository implement and compare different LSTM-based arch
 
 ## Files
 
-* **`Bilstm.ipynb`**: (uppercase 'B') - This notebook implements a BiLSTM model to predict daily minimum temperatures using a real-world dataset. It includes data loading, preprocessing, model architecture, training, and visualization of results.
+* **`Bilstm.ipynb`**: This notebook implements a BiLSTM model to predict daily minimum temperatures using a real-world dataset. It includes data loading, preprocessing, model architecture, training, and visualization of results.
 * **`deeplstm.ipynb`**: This notebook builds a Deep LSTM model (multiple stacked LSTM layers) to predict daily minimum temperatures. It explores the impact of stacking LSTM layers for potentially improved forecasting.
 
 ## Datasets
